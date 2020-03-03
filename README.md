@@ -6,4 +6,6 @@ more readme
 
 # more text
 
-again a confligt
+more readme stuff
+demo edit
+to create a conflict
