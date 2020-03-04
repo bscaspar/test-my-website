@@ -2,8 +2,6 @@
 
 more readme
 
-# edit 1
+# getting started
 
-# more text
-
-a few changes here
+here's where getting started is
